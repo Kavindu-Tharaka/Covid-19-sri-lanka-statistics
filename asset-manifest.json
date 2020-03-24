@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Covid-19-sri-lanka-statistics/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Covid-19-sri-lanka-statistics/static/js/main.c8a834c3.chunk.js",
-    "main.js.map": "/Covid-19-sri-lanka-statistics/static/js/main.c8a834c3.chunk.js.map",
+    "main.js": "/Covid-19-sri-lanka-statistics/static/js/main.9a620be8.chunk.js",
+    "main.js.map": "/Covid-19-sri-lanka-statistics/static/js/main.9a620be8.chunk.js.map",
     "runtime-main.js": "/Covid-19-sri-lanka-statistics/static/js/runtime-main.bb75f9d1.js",
     "runtime-main.js.map": "/Covid-19-sri-lanka-statistics/static/js/runtime-main.bb75f9d1.js.map",
     "static/js/2.46d073c1.chunk.js": "/Covid-19-sri-lanka-statistics/static/js/2.46d073c1.chunk.js",
     "static/js/2.46d073c1.chunk.js.map": "/Covid-19-sri-lanka-statistics/static/js/2.46d073c1.chunk.js.map",
     "index.html": "/Covid-19-sri-lanka-statistics/index.html",
-    "precache-manifest.67e35641253a65edcce6c01ecb2b41dc.js": "/Covid-19-sri-lanka-statistics/precache-manifest.67e35641253a65edcce6c01ecb2b41dc.js",
+    "precache-manifest.e409770d0f8a5d883cdb4e1f46733130.js": "/Covid-19-sri-lanka-statistics/precache-manifest.e409770d0f8a5d883cdb4e1f46733130.js",
     "service-worker.js": "/Covid-19-sri-lanka-statistics/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Covid-19-sri-lanka-statistics/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.46d073c1.chunk.js.LICENSE.txt": "/Covid-19-sri-lanka-statistics/static/js/2.46d073c1.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bb75f9d1.js",
     "static/js/2.46d073c1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c8a834c3.chunk.js"
+    "static/js/main.9a620be8.chunk.js"
   ]
 }
