@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb02e3abc21ed1fa6169be1c1453a1d8",
+    "revision": "16978eee726b5a40824423e801b1e569",
     "url": "/Covid-19-sri-lanka-statistics/index.html"
   },
   {
-    "revision": "1b66aaf60c64e8bcc71a",
+    "revision": "dee9cec9e777d0aada7f",
     "url": "/Covid-19-sri-lanka-statistics/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid-19-sri-lanka-statistics/static/js/2.46d073c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b66aaf60c64e8bcc71a",
-    "url": "/Covid-19-sri-lanka-statistics/static/js/main.1feae44b.chunk.js"
+    "revision": "dee9cec9e777d0aada7f",
+    "url": "/Covid-19-sri-lanka-statistics/static/js/main.ffb449e0.chunk.js"
   },
   {
     "revision": "6d1c116e31123f66fdb7",
