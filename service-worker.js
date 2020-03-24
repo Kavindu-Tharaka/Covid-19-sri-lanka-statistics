@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Covid-19-sri-lanka-statistics/precache-manifest.e409770d0f8a5d883cdb4e1f46733130.js"
+  "/Covid-19-sri-lanka-statistics/precache-manifest.c9c9afed1058e4959a47c0322d7b7738.js"
 );
 
 self.addEventListener('message', (event) => {
